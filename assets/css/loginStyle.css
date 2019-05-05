@@ -1,0 +1,70 @@
+#login-dp{
+    min-width: 220px;
+    padding: 14px 14px 0;
+    overflow:hidden;
+    background-color:rgba(255,255,255,.8);
+   float: right;
+   max-width: 250px;
+   left: auto;
+   right: 12%;
+
+}
+#login-dp .help-block{
+    font-size:12px    
+}
+#login-dp .bottom{
+    background-color: #ff9900;
+    border-top:1px solid #ddd;
+    clear:both;
+    padding:14px;
+}
+
+.btn {
+    background-color: gray;
+}
+
+
+@media(max-width:208px){
+    #login-dp{
+        /*background-color: inherit;*/
+        background-color: #ff9900;
+        color: #fff;
+    }
+    #login-dp .bottom{
+        /*background-color: inherit;*/
+         background-color: #ff9900;
+        border-top:0 none;
+    }
+}
+
+.btn-block:hover{
+    background-color: #ff9900;
+    border:1px solid #ff9900;
+    clear:both;
+}
+#admin{   
+    right: 50%;
+    height: 40%; 
+    width: 40%; 
+    float: left;
+    margin-left: 30%;
+    margin-bottom: 5%;
+}
+
+#admin1{   
+    right: 50%;
+    height: 40%; 
+    width: 40%; 
+    float: left;
+    margin-left: 30%;
+    margin-bottom: 5%;
+}
+
+#admin2{   
+    right: 50%;
+    height: 40%; 
+    width: 40%; 
+    float: left;
+    margin-left: 30%;
+    margin-bottom: 5%;
+}

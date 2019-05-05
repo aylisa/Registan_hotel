@@ -1,0 +1,15 @@
+.rooms{
+  height: 100%;
+  width: 100%;
+  -webkit-transition: all 2s ease;
+     -moz-transition: all 2s ease;
+      -ms-transition: all 2s ease;
+          transition: all 2s ease;
+
+}
+
+.rooms:hover {
+  width: 300px;
+  height: 300px;
+
+ } 
